@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.7.46.113:9980:9980/mithuntechnologies/repository/paytm-release/</url>
+	      <name>Harish Anna Releases Nexus Repository</name>
+	      <url>http://3.233.219.146:8081/repository/Paytm_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.7.46.113:9980/mithuntechnologies/repository/paytm-snapshot/</url>
+	      <name>Harish Anna Snapshot Nexus Repository </name>
+	      <url>http://3.233.219.146:8081/repository/paytm_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
